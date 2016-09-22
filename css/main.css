@@ -1,0 +1,54 @@
+/* Inserta tu código aquí */
+/* Header */
+.navbar-default{
+	background-color: #DA2C38;
+}
+
+.nav li{
+	display: inline-block;
+
+}
+
+/* Primer Section*/
+.sect1{
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.trans{
+	background-color: black;
+	opacity: 0.6;
+	padding: 11% 0% 12% 0%;
+}
+
+.letra{
+	color: white;
+}
+
+/* Segundo section*/
+
+.sect2{
+	background-color: #F4F0BB;
+	color:#DA2C38 ;
+}
+
+.text2{
+	padding: 6%;
+
+}
+
+.helado{
+	padding: 4% 10% 4% 0%;
+	
+}
+
+/* Tercer Section */
+.sect3{
+	background-color: #DA2C38;
+	color: #F4F0BB;
+}
+
+.about{
+	padding: 5%;
+}
